@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Boris</h1>
+
+<h1 align="center"![banner_businessweb](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/00a96248-c8c3-4ab1-af78-177a4ea1aa96)
+  
+>Hi 👋, I'm Boris</h1>
 <h3 align="center">A passionate UX Designer and Software Engineer with a keen interest in developing unique digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boriscamargo78&label=Profile%20views&color=0e75b6&style=flat" alt="boriscamargo78" /> </p>
