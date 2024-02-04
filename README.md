@@ -1,6 +1,6 @@
  ![boriscamargo_github](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/a82a647e-86b4-4416-8aae-0117549a9049)
-
->Hi 👋, I'm Boris</h1>
+![thumb_fitness](https://github.com/boriscamargo78/BorisCamargo/assets/44958532/e5270de9-90b1-49b1-a15a-1f62074c3cd6)
+<H2> 👋, I'm Boris</h2>
 <h3 align="center">A passionate UX Designer and Software Engineer with a keen interest in developing unique digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boriscamargo78&label=Profile%20views&color=0e75b6&style=flat" alt="boriscamargo78" /> </p>
@@ -32,3 +32,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boriscamargo78&" alt="boriscamargo78" /></p>
 
+
+![thumb_fitness](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/20cf02a9-2104-4883-b983-3fd6cce6a4b4)
