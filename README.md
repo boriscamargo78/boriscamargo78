@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **UX/Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [In Behance link below](In Behance link below)
+- 👨‍💻 All of my projects are available at https://www.behance.net/boriscamargo
 
 - 💬 Ask me about **Visual Design, Heuristics, Angular**
 
