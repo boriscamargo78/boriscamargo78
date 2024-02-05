@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boriscamargo78&label=Profile%20views&color=0e75b6&style=flat" alt="boriscamargo78" /> </p>
 
+![thumb_fitness](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/20cf02a9-2104-4883-b983-3fd6cce6a4b4)
+
 - 🌱 I’m currently learning **React, React Native**
 
 - 👯 I’m looking to collaborate on **UX/Frontend Projects**
@@ -31,11 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boriscamargo78&show_icons=true&locale=en" alt="boriscamargo78" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boriscamargo78&" alt="boriscamargo78" /></p>
-
-
-![thumb_fitness](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/20cf02a9-2104-4883-b983-3fd6cce6a4b4)
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boriscamargo78&" alt="boriscamargo78" /></p>
 
 ![boriscamargo_github_footer](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/79456ca6-0d15-460e-a422-8da7dd991c72)
 
