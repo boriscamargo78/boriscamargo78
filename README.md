@@ -1,5 +1,4 @@
- ![boriscamargo_github](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/a82a647e-86b4-4416-8aae-0117549a9049)
-
+![boriscamargo_github2](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/b4accd2e-36b0-45d2-b204-6c56310a0a4f)
 <H1 align="center">👋 Hi, I'm Boris!</h1>
 <h3 align="center">A passionate UX Designer and Software Engineer with a keen interest in developing unique digital experiences.</h3>
 
