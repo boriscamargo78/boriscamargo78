@@ -35,3 +35,7 @@
 
 
 ![thumb_fitness](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/20cf02a9-2104-4883-b983-3fd6cce6a4b4)
+
+
+![boriscamargo_github_footer](https://github.com/boriscamargo78/boriscamargo78/assets/44958532/79456ca6-0d15-460e-a422-8da7dd991c72)
+
