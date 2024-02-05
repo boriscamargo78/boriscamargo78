@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at https://www.behance.net/boriscamargo
 
-- 💬 Ask me about **Visual Design, Heuristics, UX Artiacts, Angular JS**
+- 💬 Ask me about **Visual Design, Heuristics, UX Artifacts, Angular JS**
 
 - 📫 How to reach me **boriscamargo78@gmail.com**
 
